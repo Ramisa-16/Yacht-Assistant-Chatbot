@@ -20,3 +20,7 @@ The chatbot is divided into three main expertise areas:
 ## Installation
 
 To get started, you'll need to install the required dependencies and set up your OpenAI API key.
+
+
+https://github.com/user-attachments/assets/08d057c5-ab01-41c8-ad34-8db018c669e7
+
