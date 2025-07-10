@@ -2,6 +2,11 @@
 
 Welcome to the **Yacht Assistant Chatbot**! This Python-based chatbot provides expert assistance in three main areas related to yachting: **Docking**, **Navigation**, and **Weather**. It's powered by OpenAI's GPT-3.5 API, offering real-time responses to your queries about yacht operations, routes, and marine conditions.
 
+
+
+https://github.com/user-attachments/assets/26e69e70-112b-40b0-8d4c-9d948452f90c
+
+
 ## Features
 
 - **Mode-Specific Expertise**: Choose between different modes—`docking`, `navigation`, or `weather`—to get tailored advice for your specific needs.
@@ -22,5 +27,5 @@ The chatbot is divided into three main expertise areas:
 To get started, you'll need to install the required dependencies and set up your OpenAI API key.
 
 
-https://github.com/user-attachments/assets/08d057c5-ab01-41c8-ad34-8db018c669e7
+
 
